@@ -1,0 +1,54 @@
+{
+  "videos": [
+    {
+      "title": "Fifa 2022 worldcup final",
+      "coverImg": "https://media.npr.org/assets/img/2022/12/19/gettyimages-1450300260_custom-c5af9bcf4c0a466c8d8bf155c5917cc4ee5b1d62-s1100-c50.jpg",
+      "videoUrl": "https://www.youtube.com/embed/zhEWqfP6V_w?autoplay=1",
+      "id": 5
+    },
+    {
+      "title": "Miracle of Istanbul",
+      "coverImg": "https://www.sportinglife.com/images/news/1800x1013/37816520-c959-4ae7-b462-bb1f8d23553f.jpg",
+      "videoUrl": "https://www.youtube.com/embed/3ojXHf293M8?autoplay=1",
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "sports",
+      "videos": []
+    },
+    {
+      "id": 3,
+      "title": "Movie",
+      "videos": []
+    }
+  ],
+  "histories": [
+    {
+      "title": "Fifa 2022 worldcup final",
+      "videoUrl": "https://www.youtube.com/embed/zhEWqfP6V_w?autoplay=1",
+      "time": "28-12-2023 , 4:11 PM",
+      "id": 11
+    },
+    {
+      "title": "Fifa 2022 worldcup final",
+      "videoUrl": "https://www.youtube.com/embed/zhEWqfP6V_w?autoplay=1",
+      "time": "28-12-2023 , 4:11 PM",
+      "id": 12
+    },
+    {
+      "title": "Fifa 2022 worldcup final",
+      "videoUrl": "https://www.youtube.com/embed/zhEWqfP6V_w?autoplay=1",
+      "time": "28-12-2023 , 4:11 PM",
+      "id": 13
+    },
+    {
+      "title": "Fifa 2022 worldcup final",
+      "videoUrl": "https://www.youtube.com/embed/zhEWqfP6V_w?autoplay=1",
+      "time": "28-12-2023 , 4:11 PM",
+      "id": 14
+    }
+  ]
+}
